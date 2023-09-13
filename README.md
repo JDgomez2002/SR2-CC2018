@@ -1,13 +1,12 @@
-# SR1-CC2018
+# SR2-CC2018
 This program render a spaceship created in Blender into a rendering using CPP, SDL2 and GLM.
 
 
-
-![Spaceship](https://github.com/JDgomez2002/SR1-CC2018/blob/main/StarFighter.pdf)
+![alt text](https://github.com/JDgomez2002/SR2-CC2018/blob/main/StarFighter.png?raw=true)
 
 And this is the result of rendering a Spaceship made in blender:
 
-![SpaceShip](SpaceShip.png)
+![alt text](https://github.com/JDgomez2002/SR2-CC2018/blob/main/OriginalStarFighter.png?raw=true)
 
 ## Dependencies
 - SLD2: Library used to create windows and render graphics.
