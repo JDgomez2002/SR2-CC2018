@@ -280,7 +280,7 @@ auto printVec3Vector = [](const std::vector<glm::vec3>& vec) {
 int main() {
     SDL_Init(SDL_INIT_EVERYTHING);
 
-    SDL_Window* window = SDL_CreateWindow(".obj Renderer", 0, 0, WINDOW_WIDTH, WINDOW_HEIGHT, 0);
+    SDL_Window* window = SDL_CreateWindow("SR2 Flat Shading", 0, 0, WINDOW_WIDTH, WINDOW_HEIGHT, 0);
 
     renderer = SDL_CreateRenderer(
         window,
